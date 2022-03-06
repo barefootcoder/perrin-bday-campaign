@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Welcome Proteans!
 
-You can use the [editor on GitHub](https://github.com/barefootcoder/perrin-bday-campaign/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site contains all the info you need to prepare for your adventure.  Start with the Story
+Synopsis below, then read as much or as little of the rest as you like.  The text will help you
+figure out what's important to read and what's optional.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Story Synopsis
 
-### Markdown
+You are a member of an isolated species known as the proteans.  Your kind are natural shapeshifters,
+able to change into any form you can imagine, although more complicated forms can only be achieved
+by the elders of your people.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You are durlans, the youths of the proteans.  This is not so much about physical age—your people do
+not age as other species do, because you can always just change to a younger form—but rather about
+relative inexperience.  As durlans, you cannot change into anything smaller than a cat, or larger
+than a horse.  You can change into anything that is natural and solid (such as an animal, plant, or
+rock), and you can change into anything man-made, but it will only be functional if you personally
+know how to make that thing.  So you can turn into a chair, and people can sit on you, but if you
+try to turn into a telescope, people won't be able to use you to see far away things.
 
-```markdown
-Syntax highlighted code block
+The elders of the proteans are known as morphs, and they can turn into much smaller or much larger
+forms, plus they have access to a wider variety of functional man-made objects (as their greater
+experience has taught them how more such things function).  The truly ancient proteans are called
+the eremain, and they can even take on non-solid forms, such as fire, wind, or clouds.  The eremain
+are worshipped by some members of other species as powerful nature spirits, but to you and your
+fellow durlans, they are just wise people who offer advice, wisdom, and, sometimes, a mission.
 
-# Header 1
-## Header 2
-### Header 3
+Your job, along with your fellow party members, is to go on missions assigned to you by the morphs,
+or occasionally by the eremain.  The proteans are reclusive, but they try to stamp out evil where
+they find it, believing that helping others helps everyone thrive.  You have worked together for
+some time, so you all know each other pretty well, and you have some experience under your belt.  As
+our story begins, you are summoned to appear before Inari, a powerful eremain ...
 
-- Bulleted
-- List
+### DM Introduction
 
-1. Numbered
-2. List
+Hi, I'm Buddy, Perrin's father.  I'll be your DM, or Dungeon Master.  It will be my job to keep the
+story moving, introduce the non-player characters, run the monsters, and generally be the referee.
 
-**Bold** and _Italic_ and `Code` text
+There's lots of different ways to play D&D, and lots of different styles of DMing.  Just to let you
+know, I favor a story-focussed approach, where the goal is to tell a really cool story that you will
+remember for years to come.  Especially since this is a one-shot (that is, a self-contained
+adventure designed to be run in one day), you don't have to worry about anything too bad happening
+to your character.  We're just going to mess around and have fun with it.
 
-[Link](url) and ![Image](src)
-```
+### Character Creation
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Although your species is set for you, because you are a shapeshifter you can feel free to look like
+any other classic D&D humanoid that you like: human, elf, dwarf, halfling, dragonborn, tiefling,
+etc.  Or any creature that _isn't_ from D&D.  Or anything you can imagine, as long as you stay with
+the size guidelines.
 
-### Jekyll Themes
+Your class is completely up to you.  A few backgrounds are suggested, but you're not constrained to
+one of those.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/barefootcoder/perrin-bday-campaign/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You will be a level 6 character, so you will have several cool abilities already, including your
+subclass.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you're experienced with D&D, feel free to make your character yourself.  If you're new to it,
+don't worry: I will work with you to create something that you'll enjoy playing.  Or you can take a
+middle approach: fill out as much of your character sheet as you want, and I'll help you with the
+rest.  Whatever is most comfortable for you.
