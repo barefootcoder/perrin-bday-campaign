@@ -12,11 +12,7 @@ here, but, in general, you can look like anything you like.  If you want to look
 dragonborn most of the time, you can.  You can also just your appearance on a whim, although some of
 the people you meet might find that disconcerting.
 
-<center>
-
-![standard D&D races](standard-ancestries.jpeg) ![exotic D&D races](exotic-ancestries.png)
-
-</center>
+<center> <img src="standard-ancestries.jpeg"> <img src="exotic-ancestries.png"> </center>
 
 If you want to look like a typically sized individual, you need to stay in the size range of roughly
 sprite-sized to roughly goliath-sized.  However, you can also choose to look like an individual
