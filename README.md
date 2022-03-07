@@ -44,18 +44,19 @@ to your character.  We're just going to mess around and have fun with it.
 
 ### Character Creation
 
+If you're experienced with D&D, feel free to make your character yourself.  If you're new to it,
+don't worry: I will work with you to create something that you'll enjoy playing.  Or you can take a
+middle approach: fill out as much of your character sheet as you want, and I'll help you with the
+rest.  Whatever is most comfortable for you.
+
 Although your species is set for you, because you are a shapeshifter you can feel free to look like
 any other classic D&D humanoid that you like: human, elf, dwarf, halfling, dragonborn, tiefling,
 etc.  Or any creature that _isn't_ from D&D.  Or anything you can imagine, as long as you stay with
 the size guidelines.
 
-Your class is completely up to you.  A few backgrounds are suggested, but you're not constrained to
-one of those.
+If you want to read the [detailed character creation guidelines][CC], you can;
+they will make the most sense if you know at least a little about D&D.
 
-You will be a level 6 character, so you will have several cool abilities already, including your
-subclass.
 
-If you're experienced with D&D, feel free to make your character yourself.  If you're new to it,
-don't worry: I will work with you to create something that you'll enjoy playing.  Or you can take a
-middle approach: fill out as much of your character sheet as you want, and I'll help you with the
-rest.  Whatever is most comfortable for you.
+
+[CC]: character-creation.html
