@@ -12,7 +12,11 @@ here, but, in general, you can look like anything you like.  If you want to look
 dragonborn most of the time, you can.  You can also just your appearance on a whim, although some of
 the people you meet might find that disconcerting.
 
+<center>
+
 ![standard D&D races](standard-ancestries.jpeg) ![exotic D&D races](exotic-ancestries.png)
+
+</center>
 
 If you want to look like a typically sized individual, you need to stay in the size range of roughly
 sprite-sized to roughly goliath-sized.  However, you can also choose to look like an individual
@@ -61,6 +65,18 @@ Pick whatever skills you want.  The following skills might be useful for your sh
 Don't worry about equipment too much.  Assume you have a dungeoneer's pack, any tools you have
 proficiency with, and any weapons or armor that you want.  Don't worry about keeping track of how
 much money you have: it won't really come up in the one-shot.
+
+## Advanced Features
+
+### Feats
+
+Everyone gets a non-combat feat at first level, to help you flesh out your character concept.  So,
+not Dual Wielder, Polearm Master, or Sentinel, but Alert, Keen Mind, or Lucky would be fine.  You
+can also take a feat instead of an ability score increase, as usual.
+
+### Multiclassing
+
+You can multiclass if you want to.  Don't worry about ability score prerequisites.
 
 
 
