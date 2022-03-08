@@ -11,6 +11,8 @@ You are a member of an isolated species known as the proteans.  Your kind are na
 able to change into any form you can imagine, although more complicated forms can only be achieved
 by the elders of your people.
 
+<center> <img src="shapeshifting.png"> </center>
+
 You are durlans, the youths of the proteans.  This is not so much about physical age—your people do
 not age as other species do, because you can always just change to a younger form—but rather about
 relative inexperience.  As durlans, you cannot change into anything smaller than a cat, or larger
