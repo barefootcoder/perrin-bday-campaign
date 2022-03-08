@@ -8,9 +8,9 @@ particular aspects of character building are outlined below.
 ### Ancestry
 
 Your ancestry (or species) will be protean.  You can see the full rules for this custom ancestry
-here, but, in general, you can look like anything you like.  If you want to look like an elf or a
-dragonborn most of the time, you can.  You can also just your appearance on a whim, although some of
-the people you meet might find that disconcerting.
+[here], but, in general, you can look like anything you like.  If you want to look like an elf or a
+dragonborn most of the time, you can.  You can also just change your appearance on a whim, although
+some of the people you meet might find that disconcerting.
 
 <center> <img src="standard-ancestries.jpeg"> <img src="exotic-ancestries.png"> </center>
 

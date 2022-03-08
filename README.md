@@ -1,8 +1,9 @@
 ## Welcome Proteans!
 
-This site contains all the info you need to prepare for your adventure.  Start with the Story
-Synopsis below, then read as much or as little of the rest as you like.  The text will help you
-figure out what's important to read and what's optional.
+This site contains all the info you need to prepare for your adventure.  Start with the "Story
+Synopsis" below, then read as much of the rest as you like, but the "What You Need to Do to Prepare"
+section will probably be the most helpful.  Clicking on the links will give you more information if
+you want it, but it's all optional.
 
 ### Story Synopsis
 
@@ -23,7 +24,7 @@ forms, plus they have access to a wider variety of functional man-made objects (
 experience has taught them how more such things function).  The truly ancient proteans are called
 the eremain, and they can even take on non-solid forms, such as fire, wind, or clouds.  The eremain
 are worshipped by some members of other species as powerful nature spirits, but to you and your
-fellow durlans, they are just wise people who offer advice, wisdom, and, sometimes, a mission.
+fellow durlans, they are just wise people who offer advice, wisdom, and, sometimes ... a mission.
 
 Your job, along with your fellow party members, is to go on missions assigned to you by the morphs,
 or occasionally by the eremain.  The proteans are reclusive, but they try to stamp out evil where
@@ -41,6 +42,27 @@ know, I favor a story-focussed approach, where the goal is to tell a really cool
 remember for years to come.  Especially since this is a one-shot (that is, a self-contained
 adventure designed to be run in one day), you don't have to worry about anything too bad happening
 to your character.  We're just going to mess around and have fun with it.
+
+If you know the rules of D&D, you may be interested to know about the [house rules][HR] we use.
+
+### What You Need to Do To Prepare
+
+All you need to do is come up with an idea for a character.  If you want to flesh that out, read
+through the "Character Creation" section below; it's especially useful if you already have some
+experience making D&D characters.
+
+If you don't have experience, that's okay: just come up with an idea of what sort of character you'd
+like to play—someone who's good at fighting, someone who's good at magic, someone who's good at
+sneaking—and I can help you figure out the rest.
+
+You can work on your character on your own, with me, or with the other players.  Talking through
+your ideas in a group can be lots of fun, and helps everyone come up with complementary characters.
+
+If you have dice, feel free to bring them, but you don't have to.
+
+If you want to start filling out your character sheet ahead of time, you can use the [simple
+fillable character sheet from Wizards][CS], or you can try using [Myth Weavers][MW].  Myth Weavers
+has sheets that will do some of the math for you, but you have to sign up for a (free) account.
 
 ### Character Creation
 
@@ -60,3 +82,6 @@ they will make the most sense if you know at least a little about D&D.
 
 
 [CC]: character-creation.html
+[HR]: house-rules.html
+[CS]: https://media.wizards.com/2016/dnd/downloads/5E_CharacterSheet_Fillable.pdf
+[MW]: https://www.myth-weavers.com
