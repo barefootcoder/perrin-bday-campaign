@@ -56,7 +56,9 @@ experience making D&D characters.
 
 If you don't have experience, that's okay: just come up with an idea of what sort of character you'd
 like to play&#65279;—someone who's good at fighting, someone who's good at magic, someone who's good
-at sneaking&#65279;—and I can help you figure out the rest.
+at sneaking&#65279;—and I can help you figure out the rest.  **You do not have to learn any of the
+rules of D&D before we start playing.**  You can learn as you go, and it won't be so overwhelming as
+if you try to learn everything beforehand.
 
 You can work on your character on your own, with me, or with the other players.  Talking through
 your ideas in a group can be lots of fun, and helps everyone come up with complementary characters.
