@@ -25,7 +25,7 @@ time.  Pick an alignment as usual, but consider it more of a guideline than a st
 
 ### Background
 
-I've outlined a few [Protean-specific backgrounds], but you are not constrained to one of those.
+I've outlined a few [Protean-specific backgrounds][BG], but you are not constrained to one of those.
 Pick anything you like, or, if you're feeling particularly industrious, make your own.
 
 ### Class
@@ -76,4 +76,5 @@ You can multiclass if you want to.  Don't worry about ability score prerequisite
 
 
 
+[BG]: backgrounds.html
 [CD]: https://chicken-dinner.com/5e/5e-point-buy.html#customrace&NA&8&8&8&8&8&8&0&0&27&15&6&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4
