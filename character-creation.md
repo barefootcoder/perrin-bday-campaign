@@ -1,9 +1,9 @@
 ## Character Creation
 
 In general, you'll want to create a fun character who's handy in combat, but also pretty good at
-investigating things.  You don't want to spend too much time on it—this is a one-shot, after
-all!—but definitely try to put a little bit of personality into it.  Specific guidelines for the
-particular aspects of character building are outlined below.
+investigating things.  You don't want to spend too much time on it&#65279;—this is a one-shot, after
+all!&#65279;—but definitely try to put a little bit of personality into it.  Specific guidelines for
+the particular aspects of character building are outlined below.
 
 ### Ancestry
 

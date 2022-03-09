@@ -13,13 +13,14 @@ by the elders of your people.
 
 <center> <img src="shapeshifting.png"> </center>
 
-You are durlans, the youths of the proteans.  This is not so much about physical age—your people do
-not age as other species do, because you can always just change to a younger form—but rather about
-relative inexperience.  As durlans, you cannot change into anything smaller than a cat, or larger
-than a horse.  You can change into anything that is natural and solid (such as an animal, plant, or
-rock), and you can change into anything man-made, but it will only be functional if you personally
-know how to make that thing.  So you can turn into a chair, and people can sit on you, but if you
-try to turn into a telescope, people won't be able to use you to see far away things.
+You are durlans, the youths of the proteans.  This is not so much about physical age&#65279;—your
+people do not age as other species do, because you can always just change to a younger
+form&#65279;—but rather about relative inexperience.  As durlans, you cannot change into anything
+smaller than a cat, or larger than a horse.  You can change into anything that is natural and solid
+(such as an animal, plant, or rock), and you can change into anything man-made, but it will only be
+functional if you personally know how to make that thing.  So you can turn into a chair, and people
+can sit on you, but if you try to turn into a telescope, people won't be able to use you to see far
+away things.
 
 The elders of the proteans are known as morphs, and they can turn into much smaller or much larger
 forms, plus they have access to a wider variety of functional man-made objects (as their greater
@@ -54,8 +55,8 @@ through the "Character Creation" section below; it's especially useful if you al
 experience making D&D characters.
 
 If you don't have experience, that's okay: just come up with an idea of what sort of character you'd
-like to play—someone who's good at fighting, someone who's good at magic, someone who's good at
-sneaking—and I can help you figure out the rest.
+like to play&#65279;—someone who's good at fighting, someone who's good at magic, someone who's good
+at sneaking&#65279;—and I can help you figure out the rest.
 
 You can work on your character on your own, with me, or with the other players.  Talking through
 your ideas in a group can be lots of fun, and helps everyone come up with complementary characters.
@@ -78,8 +79,8 @@ any other classic D&D humanoid that you like: human, elf, dwarf, halfling, drago
 etc.  Or any creature that _isn't_ from D&D.  Or anything you can imagine, as long as you stay with
 the size guidelines.
 
-If you want to read the [detailed character creation guidelines][CC], you can;
-they will make the most sense if you know at least a little about D&D.
+If you want to read the [detailed character creation guidelines][CC], you can; they will make the
+most sense if you know at least a little about D&D.
 
 
 
