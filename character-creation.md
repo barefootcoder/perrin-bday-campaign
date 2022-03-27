@@ -8,9 +8,9 @@ the particular aspects of character building are outlined below.
 ### Ancestry
 
 Your ancestry (or species) will be protean.  You can see the full rules for this custom ancestry
-[here], but, in general, you can look like anything you like.  If you want to look like an elf or a
-dragonborn most of the time, you can.  You can also just change your appearance on a whim, although
-some of the people you meet might find that disconcerting.
+[here][PR], but, in general, you can look like anything you like.  If you want to look like an elf
+or a dragonborn most of the time, you can.  You can also just change your appearance on a whim,
+although some of the people you meet might find that disconcerting.
 
 <center> <img src="standard-ancestries.jpeg"> <img src="exotic-ancestries.png"> </center>
 
@@ -76,5 +76,6 @@ You can multiclass if you want to.  Don't worry about ability score prerequisite
 
 
 
+[PR]: gmbinder-ancestry/Protean.pdf
 [BG]: backgrounds.html
 [CD]: https://chicken-dinner.com/5e/5e-point-buy.html#customrace&NA&8&8&8&8&8&8&0&0&27&15&6&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4
