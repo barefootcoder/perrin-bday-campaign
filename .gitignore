@@ -1,0 +1,4 @@
+
+.*.sw?
+
+/gmbinder-ancestry/source-images/
