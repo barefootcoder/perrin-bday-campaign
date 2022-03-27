@@ -13,7 +13,7 @@ can't mess up, and you're never so hopelessly outmatched that you can't pull a h
 
 #### Repeated Skill Checks
 
-If you fail a skill check, you can immediately try again using the same skill, but the DC will go up.  In order to achieve success, you'll have to figure out a new method to use that skill, and that makes it harder.
+If you fail a skill check, you can immediately try again using the same skill, but the DC will go up.  In order to achieve success, you'll have to figure out a new way to use that skill, and that makes it harder.
 
 #### Short Rests
 
@@ -21,7 +21,7 @@ A short rest takes 10 – 15 minutes.
 
 #### Inspiration
 
-Spending inspiration for yourself grants a reroll instead of advantage.
+Spending inspiration (for yourself or someone else) grants a reroll instead of advantage.
 
 
 ### Combat

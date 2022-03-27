@@ -79,7 +79,7 @@ rest.  Whatever is most comfortable for you.
 Although your species is set for you, because you are a shapeshifter you can feel free to look like
 any other classic D&D humanoid that you like: human, elf, dwarf, halfling, dragonborn, tiefling,
 etc.  Or any creature that _isn't_ from D&D.  Or anything you can imagine, as long as you stay with
-the size guidelines.
+the size guidelines (roughly, no smaller than a cat and no larger than a horse).
 
 If you want to read the [detailed character creation guidelines][CC], you can; they will make the
 most sense if you know at least a little about D&D.
