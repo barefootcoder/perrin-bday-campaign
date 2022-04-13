@@ -11,10 +11,6 @@ A natural 20 (or "crit") always succeeds and a natural 1 (or "fumble") always fa
 checks and saving throws.  Because, to quote the great B. Dave Walters: "You're never so good you
 can't mess up, and you're never so hopelessly outmatched that you can't pull a hail Mary."
 
-#### Repeated Skill Checks
-
-If you fail a skill check, you can immediately try again using the same skill, but the DC will go up.  In order to achieve success, you'll have to figure out a new way to use that skill, and that makes it harder.
-
 #### Short Rests
 
 A short rest takes 10 – 15 minutes.
@@ -22,6 +18,17 @@ A short rest takes 10 – 15 minutes.
 #### Inspiration
 
 Spending inspiration (for yourself or someone else) grants a reroll instead of advantage.
+
+
+### Exploration
+
+#### Repeated Skill Checks
+
+If you fail a skill check, you can immediately try again using the same skill, but the DC will go up.  In order to achieve success, you'll have to figure out a new way to use that skill, and that makes it harder.
+
+#### Falling Damage
+
+Falling damage is considered force damage rather than bludgeoning damage.  Mostly this is because it's not particularly sensible for barbarians to be able to have resistance to falling damage.
 
 
 ### Combat
